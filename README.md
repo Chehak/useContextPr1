@@ -6,5 +6,5 @@ Steps---
   <li>Step 4 : Extract the state where the data is present and use the values wherever you want...</li>  
 </ul>
 
-
+<p>When reseting the values present in context to update upfront use setUser({username:'',password:''})</p>
 
